@@ -8,7 +8,7 @@
 		<version>3.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.example</groupId>
+	<groupId>br.com.exemplo</groupId>
 	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
